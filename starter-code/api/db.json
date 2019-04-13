@@ -1,0 +1,39 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Danyel",
+        "occupation": "Hacker",
+        "weapon": "Fingers",
+        "cartoon": false
+      },
+      {
+        "id": 2,
+        "name": "Luke Skywalker",
+        "occupation": "Jedi Knight",
+        "weapon": "Lightsaber",
+        "cartoon": false
+      },
+      {
+        "name": "Batman",
+        "occupation": "Heroe",
+        "weapon": "Fist",
+        "cartoon": true,
+        "id": 4
+      },
+      {
+        "name": "Jiji",
+        "occupation": "Architect",
+        "weapon": "Ruler",
+        "cartoon": false,
+        "id": 5
+      },
+      {
+        "name": "Mickael",
+        "occupation": "Web Dev Jedi",
+        "weapon": "Mind",
+        "cartoon": false,
+        "id": 6
+      }
+    ]
+  }

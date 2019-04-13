@@ -75,7 +75,7 @@ button {
 
 .character-info div span {
   color: #d8b362;
-  position: absolute;
+  /* position: absolute; */
   left: 50%;
 }
 
